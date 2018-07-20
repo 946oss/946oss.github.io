@@ -1,0 +1,75 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: 釧路OSSコミュニティ
+# email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  釧路地域で活動している、技術系コミュニティです
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://946oss.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 946oss
+github_username: 946oss
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-feed
+
+locale: ja
+
+teaser: /assets/images/procon_2017.jpg
+og_image: /assets/images/logo.png
+
+author:
+  name: "釧路OSSコミュニティ"
+  avatar: /assets/images/logo.png
+  bio: "釧路地域で活動している、技術系コミュニティです"
+  location: Kushiro, Hokkaido
+  uri: https://946oss.github.io/
+  github: 946oss
+  twitter: 946oss
+
+social:
+  type: Organization
+  links:
+    - "https://twitter.com/946oss"
+
+search: true
+search_full_content: true
+search_provider: algolia
+
+algolia:
+  application_id: QP2AFYCS7J
+  index_name: posts
+  search_only_api_key: 255f0b5d95c16bdfc9a0d028346a88f3
+
+include:
+  - .htaccess
+  - _pages
+
+encoding: utf-8
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
