@@ -29,8 +29,8 @@ plugins:
   - jekyll-feed
 
 locale: ja
+timezone: Asia/Tokyo
 
-teaser: /assets/images/procon_2017.jpg
 og_image: /assets/images/logo.png
 
 author:
