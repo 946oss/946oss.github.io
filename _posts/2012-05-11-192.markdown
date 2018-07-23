@@ -1,0 +1,40 @@
+---
+layout: single
+title: "釧路OSS ミニセミナー vol.2 開催します！"
+date: 2012-05-11 06:49:17 +0000
+redirect_from:
+  - /kushirooss/2012/05/192/
+---
+<a href="http://blog.kushi.ro/kushirooss/files/2012/05/res_DSC_00172.jpg"><img class="aligncenter size-medium wp-image-205" title="res_DSC_0017" src="http://blog.kushi.ro/kushirooss/files/2012/05/res_DSC_00172-300x199.jpg" alt="" width="300" height="199" /></a>いけだです
+
+釧路OSSコミュニティ の<strong>第2回公開ミニセミナー</strong>(無料)を行います。
+当コミュニティメンバーが、
+定期的に行っている勉強会の内容をベースにしたものや、
+旬な題材を使って発表します。
+
+日時：2012/05/19(土)15:00-18:00
+会場：釧路市民活動センターわっと (<a title="google maps" href="http://g.co/maps/jjsrc" target="_blank">釧路市末広町3丁目1番１号</a>)
+会費：<strong>無料</strong>
+申し込み：会場に来て頂ければそれでOK！
+
+初心者の方にもわかりやすい内容になっていますので、
+ぜひ会場の わっと まで足をお運びくださいませ。
+
+セッション内容
+・15:00 - 15:45「OSSの話を何か」（仮） : さいとう(<a href="http://twitter.com/kazuyoshi" target="_blank">@kazuyoshi</a>)
+・15:55 - 16:35 インターネットを楽しむ為のセキュリティについて :いけだ(<a href="http://http://twitter.com/tenyawanya" target="_blank">@tenyawanya</a>)
+・16:45 - 17:25 「スマフォとOSSを使い人生を楽しく過す７つの方法」 : おがわ
+・17:35 - 18:00 LT(ライトニングトーク)＆閉会 : 釧路OSSコミュニティ参加メンバー
+<a href="http://twitter.com/T_akms" target="_blank">@T_akms</a> <a href="http://twitter.com/APA_Diver" target="_blank">@APA_Diver</a> <a href="http://twitter.com/yatch3455" target="_blank">@yatch3455</a> <a href="http://twitter.com/ya8" target="_blank">@ya8</a>
+
+興味の対象の幅を広げたり、
+同好の仲間を増やす機会としてもどうぞ。
+
+<strong>懇親会も開催します</strong>。(18:30から)
+懇親会への参加をご希望の方は、下記 atnd にて事前申し込みを
+お願い致します。(懇親会会費：4000円)
+
+<a title="釧路OSSミニセミナー2012懇親会 atnd" href="http://atnd.org/events/28845" target="_blank">http://atnd.org/events/28845</a>
+
+以下はvol.1の動画アーカイブです。
+<a title="釧路OSSミニセミナーvol.1動画アーカイブ" href="http://blog.kushi.ro/kushirooss/2011/05/78/">http://blog.kushi.ro/kushirooss/2011/05/78/</a>

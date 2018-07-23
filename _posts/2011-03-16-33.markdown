@@ -1,0 +1,45 @@
+---
+layout: single
+title: "第14回勉強会を開催しました！"
+date: 2011-03-16 14:27:44 +0000
+redirect_from:
+  - /kushirooss/2011/03/33/
+---
+やはたです。今回の幹事役を担当いたしました。
+
+2011年3月15日19:00より予定通りわっとにて、
+
+参加者６名で勉強会を行いました。
+
+今月はSoftwareDesign3月号から興味のあるテーマに付いて、
+
+雑談のような感じでスタート…
+
+あまりうまく進行できなかったなあと反省してます。
+
+私は、さいとうさんといけださんにshの基本的な使い方を教わりました。
+
+&nbsp;
+
+来月はそれぞれ興味関心のあるテーマについて勉強し、
+
+発表していくスタイルになるかと思います。
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://blog.kushi.ro/kushirooss/files/2011/03/DSC00214.jpg"><img class="alignnone size-medium wp-image-37" src="http://blog.kushi.ro/kushirooss/files/2011/03/DSC00214-300x199.jpg" alt="今月の勉強のテーマ" width="300" height="199" /></a>
+<a href="http://blog.kushi.ro/kushirooss/files/2011/03/DSC00215.jpg"><img class="alignnone size-medium wp-image-39" src="http://blog.kushi.ro/kushirooss/files/2011/03/DSC00215-300x199.jpg" alt="勉強会の様子" width="300" height="199" /></a>
+
+&nbsp;
+
+その後は懇親会へ。
+
+学んで、食べて、飲んで、語り合って。
+
+深夜に解散となりました。
+
+&nbsp;
+
+&nbsp;

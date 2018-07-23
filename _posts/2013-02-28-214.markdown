@@ -1,0 +1,10 @@
+---
+layout: single
+title: "いがらしくん壮行会"
+date: 2013-02-28 09:21:34 +0000
+redirect_from:
+  - /kushirooss/2013/02/214/
+---
+この春釧路をたついがらしくんの壮行会をやります！
+
+<a href="http://atnd.org/events/37292" target="_blank">参加はこちらのatndから。</a>

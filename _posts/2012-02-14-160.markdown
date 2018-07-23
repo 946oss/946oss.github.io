@@ -1,0 +1,15 @@
+---
+layout: single
+title: "告知：第24回釧路OSSコミュニティ勉強会"
+date: 2012-02-14 20:26:25 +0000
+redirect_from:
+  - /kushirooss/2012/02/160/
+---
+いけだです。
+直前の告知掲載ですが。。。
+
+釧路OSSコミュニティ勉強会を開催いたします。
+日時：2月15日19:00-21:00
+場所：<a href="http://g.co/maps/jm9ks" title="釧路市民活動センター「わっと」google map" target="_blank">わっと</a>
+
+ご参加お待ちしています！

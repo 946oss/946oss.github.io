@@ -18,7 +18,7 @@ title: 釧路OSSコミュニティ
 description: >- # this means to ignore newlines until "baseurl:"
   釧路地域で活動している、技術系コミュニティです
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://946oss.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://946oss.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 946oss
 github_username: 946oss
 
@@ -27,6 +27,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 locale: ja
 timezone: Asia/Tokyo
@@ -46,6 +47,10 @@ social:
   type: Organization
   links:
     - "https://twitter.com/946oss"
+
+twitter:
+  username: 946oss
+  card: summary
 
 search: true
 search_full_content: true

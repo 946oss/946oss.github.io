@@ -1,0 +1,19 @@
+---
+layout: single
+title: "第21回釧路OSSコミュニティ勉強会を開催しました！"
+date: 2011-11-16 22:20:05 +0000
+redirect_from:
+  - /kushirooss/2011/11/151/
+---
+<a href="http://blog.kushi.ro/kushirooss/files/2011/11/study21th.jpg"><img src="http://blog.kushi.ro/kushirooss/files/2011/11/study21th-300x224.jpg" alt="" width="300" height="224" class="aligncenter size-medium wp-image-152" /></a>
+
+今回は斉藤さんが作成したブログパーツとツイッターとの連動について、
+写真のような感じでプレゼンしていただきました。
+
+斉藤さんが作成したブログパーツ→<a href="http://ap.kushi.ro/uyake/">釧路の夕焼けブログパーツ</a>
+
+更新の手間が省けてとても助かっています。
+
+
+次回の幹事はやっちさんに担当いただきます。
+次回は忘年会も兼ねての開催となる予定です。

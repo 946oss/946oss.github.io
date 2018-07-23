@@ -1,0 +1,37 @@
+---
+layout: single
+title: "第１５回勉強会を開催しました"
+date: 2011-04-15 21:50:16 +0000
+redirect_from:
+  - /kushirooss/2011/04/51/
+---
+&nbsp;
+
+きしです。
+
+新しくなった「わっと」にて４月１２日、午後７時より行いました。
+
+今回の勉強会参加者は６名でした。
+
+最近はコンスタントに５人以上が参加するようになってきましたね！
+
+&nbsp;
+
+内容は先月に引き続き、Software Design から気になる内容を各自予習して当日話し合うスタイル。
+
+今月のSDのテーマは「遅延」。
+<p style="text-align: center"><a title="KUSHIRO OSS 15回勉強会" href="http://www.flickr.com/photos/50762759@N00/5621637780/"><img class="alignnone" src="http://farm6.static.flickr.com/5265/5621637780_2772a849f4_m.jpg" alt="KUSHIRO OSS 15回勉強会" /></a></p>
+ひと通り内容についての話し合い（雑談？？）が終わったあとに、発表らしきものも少々。
+
+私の方からは、先月のSDから取り上げられていたAppinventorについて、稚拙ながら創り上げたアプリケーションとともに紹介させていただきました。
+<p style="text-align: center"><a title="KUSHIRO OSS 15回勉強会" href="http://www.flickr.com/photos/50762759@N00/5621637740/"><img class="alignnone" src="http://farm6.static.flickr.com/5301/5621637740_d9d52c8f54_m.jpg" alt="KUSHIRO OSS 15回勉強会" /></a></p>
+<p style="text-align: center">&nbsp;</p>
+八幡さんからはSD付録のiPhoneアプリ制作記事を実践した「おみくじアプリ」の紹介がありました。
+<p style="text-align: center"><a title="KUSHIRO OSS 15回勉強会" href="http://www.flickr.com/photos/50762759@N00/5621637634/"><img class="alignnone" src="http://farm6.static.flickr.com/5104/5621637634_581847ec59_m.jpg" alt="KUSHIRO OSS 15回勉強会" /></a></p>
+
+「おみくじアプリ」で次回の幹事を選出する日も遠くないですね！
+
+勉強会のあとは恒例になりつつある懇親会もしっかり行ないました。
+
+釧路OSSの勉強会は堅苦しいものではないんですよ。
+気軽に参加してみてくださいね！

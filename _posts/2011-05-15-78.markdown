@@ -1,0 +1,42 @@
+---
+layout: single
+title: "釧路OSS ミニセミナー vol.1 VTR"
+date: 2011-05-15 12:36:12 +0000
+redirect_from:
+  - /kushirooss/2011/05/78/
+---
+たくさんの方におこしいただき、無事終了いたしました。
+本当にありがとうございました。
+懇親会も大盛り上がりで楽しい時間となりました。
+まずはセミナーのUstreamアーカイブをまとめました。
+
+Twitterとかの話(仮)<a href="http://twitter.com/#!/kazuyoshi">@kazuyoshi</a>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="296" id="utv131172" name="utv_n_809239"><param name="flashvars" value="loc=%2F&amp;autoplay=false&amp;vid=14689451&amp;locale=ja_JP&amp;hasticket=false&amp;v3=1" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.ustream.tv/flash/viewer.swf" /><embed flashvars="loc=%2F&amp;autoplay=false&amp;vid=14689451&amp;locale=ja_JP&amp;hasticket=false&amp;v3=1" width="480" height="296" allowfullscreen="true" allowscriptaccess="always" id="utv131172" name="utv_n_809239" src="http://www.ustream.tv/flash/viewer.swf" type="application/x-shockwave-flash" /></object>
+
+Androidアプリを作っちゃおう<a href="http://twitter.com/#!/APA_Diver">@APA_Diver</a>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="296" id="utv76392" name="utv_n_352460"><param name="flashvars" value="loc=%2F&amp;autoplay=false&amp;vid=14690388&amp;locale=ja_JP&amp;hasticket=false&amp;v3=1" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.ustream.tv/flash/viewer.swf" /><embed flashvars="loc=%2F&amp;autoplay=false&amp;vid=14690388&amp;locale=ja_JP&amp;hasticket=false&amp;v3=1" width="480" height="296" allowfullscreen="true" allowscriptaccess="always" id="utv76392" name="utv_n_352460" src="http://www.ustream.tv/flash/viewer.swf" type="application/x-shockwave-flash" /></object>
+
+インターネットを楽しむ為のセキュリティ<a href="http://twitter.com/#!/tenyawanya">@tenyawanya</a>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="296" id="utv338303" name="utv_n_377140"><param name="flashvars" value="loc=%2F&amp;autoplay=false&amp;vid=14690939&amp;locale=ja_JP&amp;hasticket=false&amp;v3=1" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.ustream.tv/flash/viewer.swf" /><embed flashvars="loc=%2F&amp;autoplay=false&amp;vid=14690939&amp;locale=ja_JP&amp;hasticket=false&amp;v3=1" width="480" height="296" allowfullscreen="true" allowscriptaccess="always" id="utv338303" name="utv_n_377140" src="http://www.ustream.tv/flash/viewer.swf" type="application/x-shockwave-flash" /></object>
+
+ライトニングトーク＆クロージング
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="296" id="utv548232" name="utv_n_464794"><param name="flashvars" value="loc=%2F&amp;autoplay=false&amp;vid=14691450&amp;locale=ja_JP&amp;hasticket=false&amp;v3=1" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.ustream.tv/flash/viewer.swf" /><embed flashvars="loc=%2F&amp;autoplay=false&amp;vid=14691450&amp;locale=ja_JP&amp;hasticket=false&amp;v3=1" width="480" height="296" allowfullscreen="true" allowscriptaccess="always" id="utv548232" name="utv_n_464794" src="http://www.ustream.tv/flash/viewer.swf" type="application/x-shockwave-flash" /></object>
+
+【告知文】
+釧路OSSコミュニティ の公開ミニセミナー(無料)を行います。
+
+当コミュニティメンバーが、
+定期的に行っている勉強会の内容をベースにしたものや、
+旬な題材を使って発表します。
+
+今回は、初心者の方にもわかりやすい内容になっていますので、
+ぜひ会場の わっと まで足をお運びくださいませ。
+
+興味の対象の幅を広げたり、
+同好の仲間を増やす機会としてもどうぞ。
+
+<a href="http://atnd.org/events/15535">ATND:釧路OSS ミニセミナー vol.1</a>

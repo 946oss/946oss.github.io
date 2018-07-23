@@ -5,6 +5,8 @@ date:   2015-05-21 08:29:18 +0900
 categories: 勉強会
 author: Kazuyoshi Saito
 author_profile: true
+redirect_from:
+  - /kushirooss/2015/05/254/
 ---
 
 さいとうです。

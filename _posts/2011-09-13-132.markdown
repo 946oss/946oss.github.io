@@ -1,0 +1,12 @@
+---
+layout: single
+title: "LDD懇親会の受付を締め切りました"
+date: 2011-09-13 11:18:36 +0000
+redirect_from:
+  - /kushirooss/2011/09/132/
+---
+さいとうです。
+
+懇親会の受付がおかげさまで満席となりました。ありがとうございます。
+セミナーの席はまだまだ余裕がございますので引き続き申し込みお待ちしております。
+<h2><a href="http://oss.kushi.ro/modules/eguide/event.php?eid=8">申し込みはこちらからどうぞ！！</a></h2>
