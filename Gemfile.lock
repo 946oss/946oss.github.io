@@ -278,6 +278,7 @@ DEPENDENCIES
   jekyll-algolia
   jekyll-feed (~> 0.6)
   jekyll-paginate
+  jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
   minimal-mistakes-jekyll
