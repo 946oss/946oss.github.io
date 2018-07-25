@@ -8,4 +8,4 @@ redirect_from:
 7/20第2回ミーティングを行いました。
 イベントの詳細に付いて話し合いました。
 
-<a href="http://blog.kushi.ro/kushirooss/files/2011/07/P1020528.jpg"><img class="aligncenter size-medium wp-image-120" title="P1020528" src="http://blog.kushi.ro/kushirooss/files/2011/07/P1020528-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="/assets/images/2011/07/P1020528.jpg"><img class="aligncenter size-medium wp-image-120" title="P1020528" src="/assets/images/2011/07/P1020528-300x199.jpg" alt="" width="300" height="199" /></a>

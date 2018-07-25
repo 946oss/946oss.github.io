@@ -36,7 +36,7 @@ redirect_from:
 次回の勉強会の幹事はやまもとさんです。
 よろしくお願いします。
 
-<a href="http://blog.kushi.ro/kushirooss/files/2014/03/IMG_5169.jpg"><img src="http://blog.kushi.ro/kushirooss/files/2014/03/IMG_5169-300x225.jpg" alt="IMG_5169" width="300" height="225" class="alignnone size-medium wp-image-229" /></a>
+<a href="/assets/images/2014/03/IMG_5169.jpg"><img src="/assets/images/2014/03/IMG_5169-300x225.jpg" alt="IMG_5169" width="300" height="225" class="alignnone size-medium wp-image-229" /></a>
 
-<a href="http://blog.kushi.ro/kushirooss/files/2014/03/IMG_5170.jpg"><img src="http://blog.kushi.ro/kushirooss/files/2014/03/IMG_5170-300x225.jpg" alt="IMG_5170" width="300" height="225" class="alignnone size-medium wp-image-230" /></a>
+<a href="/assets/images/2014/03/IMG_5170.jpg"><img src="/assets/images/2014/03/IMG_5170-300x225.jpg" alt="IMG_5170" width="300" height="225" class="alignnone size-medium wp-image-230" /></a>
 

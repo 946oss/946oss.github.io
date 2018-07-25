@@ -11,4 +11,4 @@ redirect_from:
 心配した天気もなんとかもって、楽しいひとときを過ごす事が出来ました。
 又企画するので、ぜひご参加くださいね。
 
-<img class="aligncenter size-thumbnail wp-image-123" title="P1020558" src="http://blog.kushi.ro/kushirooss/files/2011/07/P1020558-150x150.jpg" alt="" width="150" height="150" /><a href="http://blog.kushi.ro/kushirooss/files/2011/07/P1020567.jpg"><img class="aligncenter size-thumbnail wp-image-124" title="P1020567" src="http://blog.kushi.ro/kushirooss/files/2011/07/P1020567-150x150.jpg" alt="" width="150" height="150" /></a>
+<img class="aligncenter size-thumbnail wp-image-123" title="P1020558" src="/assets/images/2011/07/P1020558-150x150.jpg" alt="" width="150" height="150" /><a href="/assets/images/2011/07/P1020567.jpg"><img class="aligncenter size-thumbnail wp-image-124" title="P1020567" src="/assets/images/2011/07/P1020567-150x150.jpg" alt="" width="150" height="150" /></a>

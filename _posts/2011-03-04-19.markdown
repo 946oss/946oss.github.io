@@ -12,12 +12,12 @@ redirect_from:
 今回は、なかなか都合が合わず参加者は5名でしたが、釧路OSSコミュニティ勉強会初参加の方がお二人いらっしゃって下さいました。
 
 まずはそれぞれ自己紹介。
-<a href="http://blog.kushi.ro/kushirooss/files/2011/03/IMG_3278.jpg"><img src="http://blog.kushi.ro/kushirooss/files/2011/03/IMG_3278-300x200.jpg" alt="会場の様子" width="300" height="200" class="alignnone size-medium wp-image-21" /></a>
+<a href="/assets/images/2011/03/IMG_3278.jpg"><img src="/assets/images/2011/03/IMG_3278-300x200.jpg" alt="会場の様子" width="300" height="200" class="alignnone size-medium wp-image-21" /></a>
 その後、SoftwareDesign２月号を読んだ中で、興味を持った記事や感想などについて自由に発表し合いました。
-<a href="http://blog.kushi.ro/kushirooss/files/2011/03/IMG_3279.jpg"><img src="http://blog.kushi.ro/kushirooss/files/2011/03/IMG_3279-300x200.jpg" alt="SD２月号を読みながら意見交換" width="300" height="200" class="alignnone size-medium wp-image-20" /></a>
+<a href="/assets/images/2011/03/IMG_3279.jpg"><img src="/assets/images/2011/03/IMG_3279-300x200.jpg" alt="SD２月号を読みながら意見交換" width="300" height="200" class="alignnone size-medium wp-image-20" /></a>
 
 その後、希望者による懇親会も開催されました。
-<a href="http://blog.kushi.ro/kushirooss/files/2011/03/IMG_1654.jpg"><img src="http://blog.kushi.ro/kushirooss/files/2011/03/IMG_1654-224x300.jpg" alt="懇親会inゆらり" width="224" height="300" class="alignnone size-medium wp-image-23" /></a>
+<a href="/assets/images/2011/03/IMG_1654.jpg"><img src="/assets/images/2011/03/IMG_1654-224x300.jpg" alt="懇親会inゆらり" width="224" height="300" class="alignnone size-medium wp-image-23" /></a>
 
 まだ参加頂いたことのない方も、お気軽に遊びにいらして下さい。
 

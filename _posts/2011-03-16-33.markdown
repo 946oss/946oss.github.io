@@ -29,8 +29,8 @@ redirect_from:
 
 &nbsp;
 
-<a href="http://blog.kushi.ro/kushirooss/files/2011/03/DSC00214.jpg"><img class="alignnone size-medium wp-image-37" src="http://blog.kushi.ro/kushirooss/files/2011/03/DSC00214-300x199.jpg" alt="今月の勉強のテーマ" width="300" height="199" /></a>
-<a href="http://blog.kushi.ro/kushirooss/files/2011/03/DSC00215.jpg"><img class="alignnone size-medium wp-image-39" src="http://blog.kushi.ro/kushirooss/files/2011/03/DSC00215-300x199.jpg" alt="勉強会の様子" width="300" height="199" /></a>
+<a href="/assets/images/2011/03/DSC00214.jpg"><img class="alignnone size-medium wp-image-37" src="/assets/images/2011/03/DSC00214-300x199.jpg" alt="今月の勉強のテーマ" width="300" height="199" /></a>
+<a href="/assets/images/2011/03/DSC00215.jpg"><img class="alignnone size-medium wp-image-39" src="/assets/images/2011/03/DSC00215-300x199.jpg" alt="勉強会の様子" width="300" height="199" /></a>
 
 &nbsp;
 

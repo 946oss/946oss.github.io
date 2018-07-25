@@ -14,7 +14,7 @@ redirect_from:
 今回はSoftwareDesginがFreeBSD特集ということもあり、
 FreeBSDについて勉強したいと思います。
 
-<a href="http://gihyo.jp/magazine/SD/archive/2011/201110"><img src="http://blog.kushi.ro/kushirooss/files/2011/10/sdtpo.jpg" alt="" width="160" height="226" class="alignnone size-full wp-image-139" /></a>
+<a href="http://gihyo.jp/magazine/SD/archive/2011/201110"><img src="/assets/images/2011/10/sdtpo.jpg" alt="" width="160" height="226" class="alignnone size-full wp-image-139" /></a>
 
 参加表明はこちらのATNDからお願い致します。
 <a href="http://atnd.org/events/20562">釧路OSSコミュニティ勉強会:ATND</a>

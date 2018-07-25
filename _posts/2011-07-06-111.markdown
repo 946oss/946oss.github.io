@@ -14,4 +14,4 @@ redirect_from:
 
 9月に向けスタッフ一同はりきっておりますのでお楽しみに！
 ※引き続きスタッフは募集中でございますのでお気軽にTwitterやMLなどで^^
-<a href="http://blog.kushi.ro/kushirooss/files/2011/07/P1020419.jpg"><img src="http://blog.kushi.ro/kushirooss/files/2011/07/P1020419-300x225.jpg" alt="" title="P1020419" width="300" height="225" class="aligncenter size-medium wp-image-112" /></a>
+<a href="/assets/images/2011/07/P1020419.jpg"><img src="/assets/images/2011/07/P1020419-300x225.jpg" alt="" title="P1020419" width="300" height="225" class="aligncenter size-medium wp-image-112" /></a>

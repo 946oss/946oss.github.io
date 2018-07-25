@@ -5,7 +5,7 @@ date: 2012-03-28 17:41:55 +0000
 redirect_from:
   - /kushirooss/2012/03/171/
 ---
-<a href="http://blog.kushi.ro/kushirooss/files/2012/03/20120313.jpg"><img src="http://blog.kushi.ro/kushirooss/files/2012/03/20120313.jpg" alt="" width="500" height="" class="aligncenter size-full wp-image-176" /></a>
+<a href="/assets/images/2012/03/20120313.jpg"><img src="/assets/images/2012/03/20120313.jpg" alt="" width="500" height="" class="aligncenter size-full wp-image-176" /></a>
 
 すみません。すっかりご報告が遅くなってしまいました！
 3月13日(火)19:00よりわっとにて第25回釧路OSSコミュニティ勉強会を開催しました。

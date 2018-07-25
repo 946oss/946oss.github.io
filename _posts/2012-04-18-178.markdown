@@ -10,7 +10,7 @@ redirect_from:
 今回はATNDから参加を募ってみました
  → <a href="http://atnd.org/events/27541">第26回釧路OSSコミュニティ勉強会</a>
 
-<a href="http://atnd.org/events/27541"><img src="http://blog.kushi.ro/kushirooss/files/2012/04/スクリーンショット-2012-04-18-16.35.11-300x245.png" alt="" width="300" height="245" class="aligncenter size-medium wp-image-184" /></a>
+<a href="http://atnd.org/events/27541"><img src="/assets/images/2012/04/スクリーンショット-2012-04-18-16.35.11-300x245.png" alt="" width="300" height="245" class="aligncenter size-medium wp-image-184" /></a>
 
 事前登録8名でしたが最終的には9名の参加。
 初参加の@yasuto0306さんにもお越しいただきました。

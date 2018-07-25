@@ -5,7 +5,7 @@ date: 2012-05-11 06:49:17 +0000
 redirect_from:
   - /kushirooss/2012/05/192/
 ---
-<a href="http://blog.kushi.ro/kushirooss/files/2012/05/res_DSC_00172.jpg"><img class="aligncenter size-medium wp-image-205" title="res_DSC_0017" src="http://blog.kushi.ro/kushirooss/files/2012/05/res_DSC_00172-300x199.jpg" alt="" width="300" height="199" /></a>いけだです
+<a href="/assets/images/2012/05/res_DSC_00172.jpg"><img class="aligncenter size-medium wp-image-205" title="res_DSC_0017" src="/assets/images/2012/05/res_DSC_00172-300x199.jpg" alt="" width="300" height="199" /></a>いけだです
 
 釧路OSSコミュニティ の<strong>第2回公開ミニセミナー</strong>(無料)を行います。
 当コミュニティメンバーが、

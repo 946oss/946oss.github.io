@@ -5,7 +5,7 @@ date: 2011-11-16 22:20:05 +0000
 redirect_from:
   - /kushirooss/2011/11/151/
 ---
-<a href="http://blog.kushi.ro/kushirooss/files/2011/11/study21th.jpg"><img src="http://blog.kushi.ro/kushirooss/files/2011/11/study21th-300x224.jpg" alt="" width="300" height="224" class="aligncenter size-medium wp-image-152" /></a>
+<a href="/assets/images/2011/11/study21th.jpg"><img src="/assets/images/2011/11/study21th-300x224.jpg" alt="" width="300" height="224" class="aligncenter size-medium wp-image-152" /></a>
 
 今回は斉藤さんが作成したブログパーツとツイッターとの連動について、
 写真のような感じでプレゼンしていただきました。

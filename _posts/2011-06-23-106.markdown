@@ -13,7 +13,7 @@ redirect_from:
 日程に関してはまだ確定ではありませんが9月17日を中心に動くことになっています。
 
 初☆まなぼっと（釧路市生涯学習センター）
-<a href="http://blog.kushi.ro/kushirooss/files/2011/06/20110623-101409.jpg"><img class="alignnone size-full" src="http://blog.kushi.ro/kushirooss/files/2011/06/20110623-101409.jpg" alt="20110623-101409.jpg" width="386" height="288" /></a>
+<a href="/assets/images/2011/06/20110623-101409.jpg"><img class="alignnone size-full" src="/assets/images/2011/06/20110623-101409.jpg" alt="20110623-101409.jpg" width="386" height="288" /></a>
 
 昨日も我々は地域経済に貢献いたしました！
-<img src="http://blog.kushi.ro/kushirooss/files/2011/06/20110623-101424-150x150.jpg" alt="" title="20110623-101424.jpg" width="150" height="150" class="aligncenter size-thumbnail wp-image-105" />
+<img src="/assets/images/2011/06/20110623-101424-150x150.jpg" alt="" title="20110623-101424.jpg" width="150" height="150" class="aligncenter size-thumbnail wp-image-105" />
