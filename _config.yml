@@ -24,10 +24,11 @@ github_username: 946oss
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.16.5"
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-include-cache
 
 locale: ja
 timezone: Asia/Tokyo
@@ -66,7 +67,6 @@ include:
   - _pages
 
 encoding: utf-8
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
